@@ -109,7 +109,7 @@ Para interactuar fácilmente con la API, puedes importar nuestra colección Inso
 
 La API está desplegada y accesible públicamente en la siguiente URL:
 
-`[COLOCAR AQUÍ LA URL PÚBLICA DE TU DESPLIEGUE, EJ: https://api.yourdomain.com]`
+http://18.231.77.101
 
 ---
 

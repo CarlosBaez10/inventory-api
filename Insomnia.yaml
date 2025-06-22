@@ -179,12 +179,12 @@ collection:
           sortKey: -1750513829919
           description: ""
         children:
-          - url: http://localhost/api/register
+          - url: http://18.231.77.101/api/register
             name: Register
             meta:
               id: req_1720f9f00bf84bd7ae350bece40119e6
               created: 1750483451482
-              modified: 1750513844198
+              modified: 1750553684090
               isPrivate: false
               description: ""
               sortKey: -1750513836412
@@ -217,12 +217,12 @@ collection:
                 send: true
                 store: true
               rebuildPath: true
-          - url: http://localhost/api/login
+          - url: http://18.231.77.101/api/login
             name: Login
             meta:
               id: req_935b2ef418644d29bb147a6400f734c7
               created: 1750484505595
-              modified: 1750515375066
+              modified: 1750553712972
               isPrivate: false
               description: ""
               sortKey: -1750513836312
@@ -247,12 +247,12 @@ collection:
                 send: true
                 store: true
               rebuildPath: true
-          - url: http://localhost/api/user
+          - url: http://18.231.77.101/api/user
             name: User
             meta:
               id: req_773c18daf5284bcf8187c1aaf62cb630
               created: 1750484643365
-              modified: 1750513838700
+              modified: 1750553720703
               isPrivate: false
               description: ""
               sortKey: -1750513836212
@@ -276,12 +276,12 @@ collection:
                 send: true
                 store: true
               rebuildPath: true
-          - url: http://localhost/api/logout
+          - url: http://18.231.77.101/api/logout
             name: Logout
             meta:
               id: req_2085f8cbb206456a808fa1eff18e3b24
               created: 1750484760199
-              modified: 1750518626872
+              modified: 1750553725140
               isPrivate: false
               description: ""
               sortKey: -1750513836112
@@ -316,12 +316,12 @@ collection:
               sortKey: -1750515264076
               description: ""
             children:
-              - url: http://localhost/api/products
+              - url: http://18.231.77.101/api/products
                 name: Get
                 meta:
                   id: req_104a43db994f468f887636e8cac8e1c0
                   created: 1750513917828
-                  modified: 1750515314929
+                  modified: 1750553763022
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286211
@@ -340,12 +340,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products
+              - url: http://18.231.77.101/api/products
                 name: Create
                 meta:
                   id: req_29853966282e4ed09454bb29b2216bff
                   created: 1750514113947
-                  modified: 1750515320949
+                  modified: 1750553768007
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286161
@@ -364,12 +364,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products/1
+              - url: http://18.231.77.101/api/products/1
                 name: Update
                 meta:
                   id: req_82075b0e098643e28aad97d083600f2c
                   created: 1750515059911
-                  modified: 1750515986008
+                  modified: 1750553773329
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286061
@@ -388,12 +388,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products/1
+              - url: http://18.231.77.101/api/products/1
                 name: Delete
                 meta:
                   id: req_dd5a2bc9a88049308393917344581871
                   created: 1750515217424
-                  modified: 1750515992885
+                  modified: 1750553759164
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286261
@@ -420,12 +420,12 @@ collection:
               sortKey: -1750514584924.5
               description: ""
             children:
-              - url: http://localhost/api/products
+              - url: http://18.231.77.101/api/products
                 name: Get
                 meta:
                   id: req_e600a33a7bda498f8f18006dfc3b902f
                   created: 1750515362819
-                  modified: 1750518658041
+                  modified: 1750553742580
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286211
@@ -444,12 +444,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products
+              - url: http://18.231.77.101/api/products
                 name: Create
                 meta:
                   id: req_d8d2822f94c64c36b9cc7f2d030aa5d1
                   created: 1750515362820
-                  modified: 1750549649480
+                  modified: 1750553748031
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286161
@@ -479,12 +479,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products/1
+              - url: http://18.231.77.101/api/products/1
                 name: Update
                 meta:
                   id: req_8934c74b30bc4e4f8dd9ce5809df2fc0
                   created: 1750515362821
-                  modified: 1750547563823
+                  modified: 1750553752626
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286061
@@ -514,12 +514,12 @@ collection:
                     send: true
                     store: true
                   rebuildPath: true
-              - url: http://localhost/api/products/1
+              - url: http://18.231.77.101/api/products/1
                 name: Delete
                 meta:
                   id: req_9c6852608c444afabc472b0076f363f7
                   created: 1750515362821
-                  modified: 1750516128760
+                  modified: 1750553737826
                   isPrivate: false
                   description: ""
                   sortKey: -1750515286261
